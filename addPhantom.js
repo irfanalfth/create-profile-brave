@@ -46,7 +46,7 @@ const writeToCSV = async (email, wallet) => {
   }
 
   await fs.appendFile(outputFile, data, "utf-8");
-  baseTimeLog(`Success add wallet${email}`, "greenBright");
+  baseTimeLog(`Success add wallet ${email}`, "greenBright");
 };
 
 (async () => {
