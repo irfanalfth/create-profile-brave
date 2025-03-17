@@ -1,0 +1,2 @@
+import{S as m,l as t}from"./chunk-X6EPTHBD.js";import{m as a}from"./chunk-FI5JCZQR.js";import{ta as e}from"./chunk-W476YZUB.js";import{a as g}from"./chunk-6MAAUKN7.js";import{f as u,h as o,n}from"./chunk-3KENBVE7.js";o();n();var r=u(g()),b=({marginBottom:i=0})=>{let{t:l}=a(),{data:[s]}=e(["enable-buy-flow-warning"]);return s?r.default.createElement(t,{marginBottom:i},r.default.createElement(m,{level:"4-error"},l("buyFlowHealthWarning"))):null};export{b as a};
+//# sourceMappingURL=chunk-SAX3UIWU.js.map

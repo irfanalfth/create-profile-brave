@@ -1,0 +1,2 @@
+import{c as s}from"./chunk-GRAHGN6Q.js";import{ta as o}from"./chunk-W476YZUB.js";import{a as l}from"./chunk-6MAAUKN7.js";import{f as d,h as t,n as a}from"./chunk-3KENBVE7.js";t();a();var e=d(l());function m(){let{data:[r]}=o(["enable-sidepanel-tx-notifications"]),[n,p]=(0,e.useState)(!1);return(0,e.useEffect)(()=>{async function f(){let i=await s();i!=n&&p(i)}f()},[]),{isSidebarOpen:r&&n}}export{m as a};
+//# sourceMappingURL=chunk-FZH2MO3Q.js.map

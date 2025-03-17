@@ -1,2 +1,4 @@
-data/irfanalfth.txt
+data/*
+!data/gmail.txt
+!data/extensions
 node_modules
